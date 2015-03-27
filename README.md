@@ -1,4 +1,4 @@
-#Feeding Schedule
+#Baby Feeding Schedule
 
 ##Why?
 My son was born in Nov, 2015. I guess this is the best program I've ever made.
