@@ -17,13 +17,13 @@ My wife said, 'let there be an all-in-one feeding table', and that's it.
 Download PDF if you have no idea which one you should take.
 If click shows file content instead of downloading,
 right click the link, choose "Save link as..." or similar option depend on browser.
-- [PDF - FeedingSchedule.pdf](https://github.com/limingjie/Feeding-Schedule/raw/master/FeedingSchedule.pdf)
-- [SVG - FeedingSchedule.svg](https://github.com/limingjie/Feeding-Schedule/raw/master/FeedingSchedule.svg)
+- [PDF - FeedingSchedule.pdf](https://github.com/limingjie/Feeding_Schedule/raw/master/FeedingSchedule.pdf)
+- [SVG - FeedingSchedule.svg](https://github.com/limingjie/Feeding_Schedule/raw/master/FeedingSchedule.svg)
 
 ##How to fill in the schedule
 Here is a suggested way of filling in it. But it is not law.
-- [PDF - FeedingScheduleSample.pdf](https://github.com/limingjie/Feeding-Schedule/raw/master/FeedingScheduleSample.pdf)
-- [SVG - FeedingScheduleSample.svg](https://github.com/limingjie/Feeding-Schedule/raw/master/FeedingScheduleSample.svg)
+- [PDF - FeedingScheduleSample.pdf](https://github.com/limingjie/Feeding_Schedule/raw/master/FeedingScheduleSample.pdf)
+- [SVG - FeedingScheduleSample.svg](https://github.com/limingjie/Feeding_Schedule/raw/master/FeedingScheduleSample.svg)
 
 ##Copyright
 Copyright away! Copy right away!
